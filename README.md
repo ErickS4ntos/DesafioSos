@@ -1,4 +1,4 @@
-# desafio-sos
+# DesafioSos
 Desafio-sos
 Foi usado o framework Spring boot para fazer a aplicação, junto com o Bootstrap e HTML5 para criar as interfaces. Os dados vão ser salvos no banco de dados Postgress.
 Inicialmente adotei uma arquitetura MVC só que com o decorrer do projeto, acabei criando um service para ficar mais flexível e também adicionei um DTO para fazer a
